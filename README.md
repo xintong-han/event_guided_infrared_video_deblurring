@@ -1,6 +1,6 @@
 # Paper Project - Event-guided Infrared Video Deblurring
 
-The paper "Event-guided Infrared Video Deblurring" is currently under review for an IEEE journal. This paper introduces an innovative event-guided infrared video deblurring model, designed to leverage the complementary advantages of event cameras and infrared imaging to enhance visual recovery in dynamic scenes. The detailed contributions and algorithmic specifics will be fully disclosed in the final published version.
+The paper "Event-guided Infrared Video Deblurring" is currently under review for an IEEE journal. This paper introduces an innovative event-guided infrared video deblurring model, designed to leverage the complementary advantages of event cameras and infrared imaging to enhance visual recovery in dynamic scenes.
 
 ## Repository layout
 
