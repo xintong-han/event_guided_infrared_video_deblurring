@@ -2,8 +2,8 @@
 set -euo pipefail
 
 project_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
-python_bin="${PYTHON_BIN:-/home/jianing/anaconda3/envs/pytorch/bin/python}"
-data_root="${DATA_ROOT:-/media/jianing/HXT1/paper1_datasets/EIVR/}"
+python_bin="${PYTHON_BIN:-/home/anaconda3/envs/pytorch/bin/python}"
+data_root="${DATA_ROOT:-/media/HXT/datasets/EIVR/}"
 dataset_tag="$(basename -- "${data_root%/}")"
 output_root="${OUTPUT_ROOT:-$project_dir/results/${dataset_tag}_eivd_test}"
 
@@ -28,5 +28,4 @@ exec "$python_bin" test.py \
   --event-window-size 1000 \
   --target-index 2 \
   --output-root "$output_root" \
-  --save-images \
   "$@"
