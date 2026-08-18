@@ -23,7 +23,7 @@ The paper "Event-guided Infrared Video Deblurring" is currently under review for
 
 Model weights are not contained in this repository and will be released independently. Please place the downloaded weights into the default path shown below.
 
-Download Link：[夸克网盘](https://pan.quark.cn/s/65169fefce60?pwd=aPRa)。
+Download Link：[Quark Cloud Drive](https://pan.quark.cn/s/65169fefce60?pwd=aPRa)。
 
 Extraction code：`aPRa`
 
@@ -52,7 +52,7 @@ python -m pip install --extra-index-url https://download.pytorch.org/whl/cu113 -
 
 ## Dataset format
 
-Download Link：[夸克网盘](https://pan.quark.cn/s/619803fea2b4?pwd=qYGe)。
+Download Link：[Quark Cloud Drive](https://pan.quark.cn/s/619803fea2b4?pwd=qYGe)。
 
 Extraction code：`qYGe`
 
