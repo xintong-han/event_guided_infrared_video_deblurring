@@ -7,7 +7,7 @@ data_root="${DATA_ROOT:-/media/HXT/datasets/EIVR/}"
 dataset_tag="$(basename -- "${data_root%/}")"
 output_root="${OUTPUT_ROOT:-$project_dir/results/${dataset_tag}_eivd_test}"
 
-export CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-2}"
+export CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-1}"
 
 cd "$project_dir"
 exec "$python_bin" test.py \
