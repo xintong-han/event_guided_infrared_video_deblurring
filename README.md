@@ -16,7 +16,6 @@ The paper "Event-guided Infrared Video Deblurring" is currently under review for
 ├── test.py               
 ├── test.sh               
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
