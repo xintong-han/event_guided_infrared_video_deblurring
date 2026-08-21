@@ -26,7 +26,7 @@ Model weights are not contained in this repository and will be released independ
 Download Link：[Quark Cloud Drive](https://pan.quark.cn/s/65169fefce60?pwd=aPRa)。
 Extraction code：`aPRa`
 
-Download Link：[modelscope](https://www.modelscope.cn/models/xintonghan/EIVDeblur))。
+Download Link：[modelscope](https://www.modelscope.cn/models/xintonghan/EIVDeblur)。
 
 ```text
 weights/model_best_eivd.pth.tar
