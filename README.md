@@ -24,8 +24,9 @@ The paper "Event-guided Infrared Video Deblurring" is currently under review for
 Model weights are not contained in this repository and will be released independently. Please place the downloaded weights into the default path shown below.
 
 Download Link：[Quark Cloud Drive](https://pan.quark.cn/s/65169fefce60?pwd=aPRa)。
-
 Extraction code：`aPRa`
+
+Download Link：[modelscope](https://www.modelscope.cn/models/xintonghan/EIVDeblur))。
 
 ```text
 weights/model_best_eivd.pth.tar
@@ -53,8 +54,9 @@ python -m pip install --extra-index-url https://download.pytorch.org/whl/cu113 -
 ## Dataset format
 
 Download Link：[Quark Cloud Drive](https://pan.quark.cn/s/619803fea2b4?pwd=qYGe)。
-
 Extraction code：`qYGe`
+
+Download Link：[modelscope](https://www.modelscope.cn/datasets/xintonghan/event_guided_infrared_video_deblurring_dataset)。
 
 Recommended directory structure:
 
